@@ -5,7 +5,7 @@
 //5- update html with answer status of the answer and a picture
 //6- show the correct answer even if user didin't select anything and show another question auto
 //7-set timeout 30 sec for each question
-//8- hoverin and out answers when user wanna click on those
+//8- hoverin and out answers when user hover over answers and then make a circle around mouse when user wanna click on answer
 var obj = {
   "What French sculptor created the Statue of Liberty?": ['Frédéric Auguste Bartholdi','Pierre Affre','André Arbus','Albert Bartholomé'],
   "What is the most spoken language in the world?": ['English','Chinese','Farsi','Hendi'],
